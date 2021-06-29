@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ryokimball
+- 👀 I’m interested in security, Linux, programming... and other stuff.
+- 🌱 I’m currently learning AI/ML (not putthing much effort into it though)
+- 💞️ I’m looking to collaborate on  AI/ML, IoT, and... other stuff.
+- 📫 How to reach me --twitter? @ryokimball. 
